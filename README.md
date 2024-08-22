@@ -1,6 +1,6 @@
 # Weather App
 
-# About Weather App
+## About Weather App
 This is the weather app that gives the weather information about input city.
 
 ## Technologies
